@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/99/trunk/dns/doc
+END
+req.dns
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/99/trunk/dns/doc/req.dns
+END
+perf
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/99/trunk/dns/doc/perf
+END

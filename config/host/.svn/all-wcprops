@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/113/trunk/dns/config/host
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/113/trunk/dns/config/host/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/99/trunk/dns/config/host/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/99/trunk/dns/config/host/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/99/trunk/dns/config/host/models.py
+END

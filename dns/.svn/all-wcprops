@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/117/trunk/dns/dns
+END
+standalone.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/117/trunk/dns/dns/standalone.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/105/trunk/dns/dns/client.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/99/trunk/dns/dns/__init__.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/104/trunk/dns/dns/test.py
+END
+master_dns.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/99/trunk/dns/dns/master_dns.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/117/trunk/dns/dns/setup.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/106/trunk/dns/dns/settings.py
+END
+hosts.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/105/trunk/dns/dns/hosts.py
+END
+protocol.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/99/trunk/dns/dns/protocol.py
+END
+cmd.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/104/trunk/dns/dns/cmd.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/104/trunk/dns/dns/main.py
+END
+proxy_dns.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/99/trunk/dns/dns/proxy_dns.py
+END

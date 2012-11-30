@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/112/trunk/dns/config/host/templates/host/host
+END
+update.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112/trunk/dns/config/host/templates/host/host/update.html
+END
+add.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/104/trunk/dns/config/host/templates/host/host/add.html
+END
+list.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/104/trunk/dns/config/host/templates/host/host/list.html
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/101/trunk/dns/db/ips
+END
+127.0.0.1
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/101/trunk/dns/db/ips/127.0.0.1
+END
+127.0.0.2
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/101/trunk/dns/db/ips/127.0.0.2
+END
