@@ -12,17 +12,17 @@ SYS_PASSWORD = 'hello'
 
 # master dns server
 MASTER_DNS = (
-    #('10.20.0.97', 53),
-    #('10.20.0.98', 53),
-    ('218.108.248.228', 53),
-    ('218.108.248.245', 53),
+    ('10.103.10.1', 53),
+    ('10.103.10.2', 53),
+    #('218.108.248.228', 53),
+    #('218.108.248.245', 53),
 )
 
 # proxy dns server
-PROXY_DNS = ('127.0.0.1', 53)
+PROXY_DNS = ('0.0.0.0', 53)
 
 # master dns time out, in seconds
-MASTER_DNS_TIMEOUT = 3
+MASTER_DNS_TIMEOUT = 2
 
 # base hosts file
 BASE_HOSTS = '../db/hosts.base'
@@ -32,4 +32,4 @@ HOST_DIR = '../db/hosts/'
 IP_DIR = '../db/ips/' 
 
 #message entrance
-CMD_SERVER = ('127.0.0.1', 5454)
+CMD_SERVER = ('0.0.0.0', 5454)
